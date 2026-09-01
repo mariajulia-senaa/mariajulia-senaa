@@ -1,12 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,100:9333ea&height=260&section=header&text=Maria%20Julia%20Sena&fontSize=50&fontColor=e9d5ff&fontAlignY=38&desc=Software%20Engineering%20%2B%20Data%20%26%20Automation&descAlignY=58&descSize=18&descColor=d9b6ff&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B57BFF&background=00000000&center=true&vCenter=true&width=700&lines=Turning+logic+into+solutions;Turning+data+into+insight;Always+building%2C+always+learning" alt="Typing SVG"/>
-
-</div>
-
-<br>
 
 ## About Me
 
